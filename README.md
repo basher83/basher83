@@ -60,6 +60,8 @@ I'm a proud US Army veteran with 23+ years of experience in IT, spanning global 
 ![Dagger](https://img.shields.io/badge/-Dagger-1d2c3a?style=flat-square)
 ![Task](https://img.shields.io/badge/-Task-4B32C3?style=flat-square)
 
+Check out my [space-themed repo naming conventions](https://github.com/basher83/docs/blob/main/mission-control/repo-naming-conventions.md)
+
 ## 📊 GitHub Stats
 <div align="center">
   
