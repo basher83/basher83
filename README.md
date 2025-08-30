@@ -3,7 +3,7 @@
 # 👋 Hi, I'm basher83
 
 [![Profile Views](https://komarev.com/ghpvc/?username=basher83&color=0e75b6&style=flat)](https://github.com/basher83)
-[![Last Updated](https://img.shields.io/github/last-commit/basher83/basher83)](https://github.com/basher83/basher83)
+![Last updated](https://img.shields.io/github/last-commit/basher83/basher83?path=README.md&display_timestamp=author&style=plastic&logo=github)
 
 </div>
 
